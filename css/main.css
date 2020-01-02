@@ -15,6 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
+    background-color: #c5cae9;
     color: inherit;
 }
 a:hover {
@@ -31,6 +32,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
+     background-color: #ede7f6;
     font-size: .8em;
 }
 
